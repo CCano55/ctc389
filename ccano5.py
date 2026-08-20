@@ -3,7 +3,7 @@
 # Python Lists
 
 # list of 10 even numbers
-nums = [4, 16, 26, 20, 12, 6, 56, 2, 32, 25]
+nums = [4, 16, 26, 20, 12, 6, 56, 2, 32, 28]
 
 print("No Loop")
 
